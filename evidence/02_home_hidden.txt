@@ -1,0 +1,20 @@
+total 76
+drwxr-x--- 12 mominaasim-dev mominaasim-dev 4096 Oct 16 04:00 .
+drwxr-xr-x  3 root           root           4096 Sep 10 21:59 ..
+-rw-------  1 mominaasim-dev mominaasim-dev  677 Oct 10 10:45 .bash_history
+-rw-r--r--  1 mominaasim-dev mominaasim-dev  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 mominaasim-dev mominaasim-dev 3771 Feb 13  2026 .bashrc
+drwx------  2 mominaasim-dev mominaasim-dev 4096 Sep 10 22:45 .cache
+drwxrwxr-x  8 mominaasim-dev mominaasim-dev 4096 Oct 10 12:56 .git
+-rw-rw-r--  1 mominaasim-dev mominaasim-dev  186 Oct 16 03:59 .gitconfig
+-rw-------  1 mominaasim-dev mominaasim-dev   20 Oct 10 12:03 .lesshst
+drwx------  3 mominaasim-dev mominaasim-dev 4096 Oct 10 11:32 .local
+-rw-r--r--  1 mominaasim-dev mominaasim-dev  807 Feb 13  2026 .profile
+drwx------  2 mominaasim-dev mominaasim-dev 4096 Sep 17 17:16 .ssh
+drwxrwxr-x  2 mominaasim-dev mominaasim-dev 4096 Oct 10 12:50 Asignment01
+drwxrwxr-x  5 mominaasim-dev mominaasim-dev 4096 Oct 10 10:56 CC
+drwxrwxr-x  3 mominaasim-dev mominaasim-dev 4096 Sep 18 11:38 CC_Lab2_practice
+drwxrwxr-x  3 mominaasim-dev mominaasim-dev 4096 Oct 10 11:16 Gitea
+drwxrwxr-x  5 mominaasim-dev mominaasim-dev 4096 Oct 16 04:01 Lab05-linux
+-rw-rw-r--  1 mominaasim-dev mominaasim-dev   58 Oct 10 11:33 README.md
+drwxrwxr-x  3 mominaasim-dev mominaasim-dev 4096 Oct 10 13:12 portfolio
