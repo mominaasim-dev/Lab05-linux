@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Momina Asim,fa24b1-se-069,0312345678,0312345678:/home/lab5user:/bin/bash
